@@ -1,4 +1,4 @@
-# EC-M116C
+# Computer-Architecture-M116C
 This repository contains my implementation of the Coding Assignments from EC M116C Fall 23 course at UCLA taught by Prof. Sehatbaksh
 
 ## Simulator for a RISC-V CPU
