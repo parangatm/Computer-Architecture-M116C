@@ -25,7 +25,7 @@ Use the provided test files in the "trace" folder, starting with "r-type.txt" an
 2. **Report**: A short report (a PDF file) that shows your design (datapath with control signals), a table that shows the values for each control signal for all instructions.
 
 
-## Memory Controller
+## Memory Controller for a Multi-Level Cache
 
 ### Overview
 The objective of this project is to design a memory hierarchy with a memory controller. The memory controller is responsible for loading data from memory (LW) or storing values at the correct address (SW). The memory hierarchy consists of two levels of cache (L1 and L2) and main memory. Additionally, there is a victim cache associated with L1.
